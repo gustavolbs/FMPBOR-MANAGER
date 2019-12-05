@@ -1,6 +1,14 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "fmpbor",
+  "short_name": "fmpbor",
+  "theme_color": "#4e73df",
+  "background_color": "#4e73df",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "FMPBOR MANAGER",
+  "author": "gustavolbs",
+  "start_url": "/",
+  "scope": "/",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,9 +25,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
