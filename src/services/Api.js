@@ -13,7 +13,7 @@ axios.defaults.headers.common.Authorization =
     : localStorage.getItem('fmpborToken');
 
 const api = axios.create({
-  baseURL: 'https://api-fmpbor.ga',
+  baseURL: 'http://fmpbor.mmav.com.br/',
 });
 
 export default api;
